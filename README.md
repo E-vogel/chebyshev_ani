@@ -26,3 +26,5 @@ This MATLAB function visualizes and animates a Chebyshev linkage mechanism. It i
    chebyshev_ani
 
 ## Output
+
+![chebyshev_linkage](https://github.com/user-attachments/assets/93e344a0-51f1-44e8-b2d6-043c3878a863)
